@@ -8,7 +8,7 @@ This repository provides a gentle introduction to DASCore, a python library for 
    
 3. Perform filtering to improve signal to noise ratio of seismic events.
    
-4. Implement cross correlation-based workflows.
+4. Calculate time-based statistics on rolling windows of continuous data.
 
 You will find Jupyter notebook on each of these topics in this repo.
 
@@ -30,12 +30,10 @@ or conda/mamba (while also creating a virtual environment)
 mamba create -n dascore dascore
 ```
 
-Next, make sure jupyter is installed in your current environment then you are ready to open the notebooks.
+Next, make sure jupyter notebook/lab is installed in your current environment then you are ready to open the notebooks.
 
 ```bash
 jupyter
 ```
 
 See the [DASCore installation documentation](https://dascore.org/#installation) for more details.
-
-
