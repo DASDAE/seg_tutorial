@@ -17,7 +17,6 @@ repos:
         # Run the formatter.
     -   id: ruff-format
 
-
     # strips out all outputs from notebooks.
 -   repo: https://github.com/kynan/nbstripout
     rev: 0.7.1

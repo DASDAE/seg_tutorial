@@ -87,3 +87,5 @@ docs/**/*.ipynb
 # misc
 scratch/**
 .ruff_cache
+
+dasdae_workshop
