@@ -4,7 +4,7 @@ This repository provides a gentle introduction to DASCore, a python library for 
 
 1. Use DASCore to index, query, and chunk a directory of DAS files.
 
-2. Create visualizations of DAS sections.
+2. Create visualizations of DAS Patches.
    
 3. Perform filtering to improve signal to noise ratio of seismic events.
    
