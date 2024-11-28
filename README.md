@@ -10,7 +10,7 @@ This repository provides a gentle introduction to DASCore, a python library for 
    
 4. Calculate time-based statistics on rolling windows of continuous data.
 
-The introductory slides can be found [here](https://dasdae.github.io/presentations/ssa_2024/ssa_2024.html).
+The introductory slides can be found [here](https://dasdae.github.io/presentations/seg_2024/seg_2024.html).
 
 You will also find four notebooks in this repo containing examples and exercises.
 
